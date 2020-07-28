@@ -6,9 +6,7 @@ This project aims to design a simple Motors control System Using: Arduino, 2 Dc 
 The Simulation done using Tinkercad website
 
 # previw
-you can test the system using the link below
-
-
+you can test the system using the link below_
 https://www.tinkercad.com/things/9uMQWDPjEd1-brilliant-lappi/editel?tenant=circuits?sharecode=CdDy3_vpZuyVgFR_jkS600iLkIfSRM4oy2OtdBHBb7w
 
 
